@@ -28,3 +28,33 @@
 /home/nathan/Projetos_WEB/Asp.net/core/Kbide_desenvolvimento/obj/Debug/netcoreapp2.2/Razor/Views/Home/CarrinhoCompras.g.cshtml.cs
 /home/nathan/Projetos_WEB/Asp.net/core/Kbide_desenvolvimento/obj/Debug/netcoreapp2.2/Razor/Views/Home/Login.g.cshtml.cs
 /home/nathan/Projetos_WEB/Asp.net/core/Kbide_desenvolvimento/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\bin\Debug\netcoreapp2.2\Kbide_desenvolvimento.deps.json
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\bin\Debug\netcoreapp2.2\Kbide_desenvolvimento.runtimeconfig.json
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\bin\Debug\netcoreapp2.2\Kbide_desenvolvimento.runtimeconfig.dev.json
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\bin\Debug\netcoreapp2.2\Kbide_desenvolvimento.dll
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\bin\Debug\netcoreapp2.2\Kbide_desenvolvimento.pdb
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\bin\Debug\netcoreapp2.2\Kbide_desenvolvimento.Views.dll
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\bin\Debug\netcoreapp2.2\Kbide_desenvolvimento.Views.pdb
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.csprojAssemblyReference.cache
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.RazorAssemblyInfo.cache
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.RazorAssemblyInfo.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.AssemblyInfoInputs.cache
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.AssemblyInfo.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.TagHelpers.input.cache
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.TagHelpers.output.cache
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.RazorCoreGenerate.cache
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\CadastroCliente.g.cshtml.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\CarrinhoCompras.g.cshtml.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contato.g.cshtml.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Visualizar.g.cshtml.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.RazorTargetAssemblyInfo.cache
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.RazorTargetAssemblyInfo.cs
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.Views.pdb
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.dll
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.pdb
+C:\Users\PROBOOK 640 G1\Desktop\Kbide_e-commerce\obj\Debug\netcoreapp2.2\Kbide_desenvolvimento.csproj.CopyComplete
